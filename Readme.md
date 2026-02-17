@@ -23,58 +23,9 @@ The Intel 8086 is a 16-bit microprocessor and the foundation of the x86 architec
 
 ---
 
-## 💻 Programs Included
-
-- Addition and Subtraction
-- Multiplication and Division
-- Largest/Smallest in Array
-- Sorting of Array
-- Factorial Program
-- Fibonacci Series
-- Palindrome Check
-- String Manipulation
-- BCD to Binary Conversion
-- Binary to BCD Conversion
-
----
-
 ## 🛠️ Tools Used
 
-- MASM (Microsoft Macro Assembler)
 - TASM (Turbo Assembler)
----
-
-## 📂 Suggested Folder Structure
-
-```
-8086-Microprocessors/
-│
-├── Arithmetic_Programs/
-├── Loop_Programs/
-├── Array_Programs/
-├── String_Programs/
-├── Conversion_Programs/
-└── README.md
-```
-
----
-
-## 🚀 How to Run the Programs
-
-1. Install DOSBox or EMU8086.
-2. Mount your project folder in DOSBox:
-   ```
-   mount c c:\your_folder_path
-   c:
-   ```
-3. Compile the program:
-   ```
-   masm filename.asm
-   link filename.obj
-   filename.exe
-   ```
-4. Observe the output.
-
 ---
 
 ## 🎯 Purpose
@@ -86,11 +37,6 @@ This repository is created for:
 - Strengthening low-level programming concepts
 
 ---
-
-## 👨‍🎓 Author
-
-**Rohan Asmani**  
-B.Tech – Electronics and Communication Engineering  
 
 ---
 
