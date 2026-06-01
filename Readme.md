@@ -40,6 +40,3 @@ This repository is created for:
 
 ---
 
-## 📜 License
-
-This project is created for educational purposes only.
